@@ -1,2 +1,2 @@
 # MC322
-This repository is dedicated to post all projects involving the learning of object-oriented programming, subject wich I'm studying in University of Campinas, in my  third period graduation.
+A intenção desse repositório é compartilhar todos os projetos envolvendo programação orientada a objetos, disciplina que estou estudando na Unicamp em meu terceiro período de graduação.
