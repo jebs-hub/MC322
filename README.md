@@ -1,5 +1,5 @@
 # Aluno
-* Jéssica da Silva de Oiveira
+* Jéssica da Silva de Oliveira
 
 # Curso
 * Engenharia de Computação
