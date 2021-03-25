@@ -1,3 +1,3 @@
 # Notebook 1 sobre Empréstimos
 
-> [texto](https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository)
+> [Atividade](https://github.com/jebs-hub/MC322/blob/8f2914ae72efd608a15f2937f276dceb4157e940/Lab01/notebook/emprestimo01-ra173931.ipynb)
