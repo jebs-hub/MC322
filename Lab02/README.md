@@ -1,3 +1,3 @@
-# Notebook 1: Do C ao JAVA
+# Notebook 1: Estruturas de Programação Java
 
-> [Atividade](https://github.com/jebs-hub/MC322/blob/8f2914ae72efd608a15f2937f276dceb4157e940/Lab01/notebook/emprestimo01-ra173931.ipynb)
+> [Atividade](https://github.com/jebs-hub/MC322/blob/e088364a7bf2a98dece53a6f983d07e7a92d8cd0/Lab02/notebook/java-estruturas-ra173931.ipynb)
