@@ -4,4 +4,4 @@
 
 # Pastas para arquivos de teste
 
-> [Atividade](https://github.com/jebs-hub/MC322/tree/main/Lab04/src/db)
+> [Testes](https://github.com/jebs-hub/MC322/tree/main/Lab04/src/db)
